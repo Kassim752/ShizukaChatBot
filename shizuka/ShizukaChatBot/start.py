@@ -11,15 +11,15 @@ async def info(client, message):
     buttons = [
         [
             InlineKeyboardButton(
-                text="Go inline", switch_inline_query_current_chat="shizuka "
+                text="Go inline", switch_inline_query_current_chat="Star_xrobot "
             ),
         ],
         [
             InlineKeyboardButton(
-                "Github", url="https://github.com/ChankitSaini/ShizukaChatBot"
+                "Support", url="https://t.me/mondoclub"
             ),
             InlineKeyboardButton(
-                "Maintained by", url="https://t.me/NeuroticAssociation"
+                "Maintained by", url="https://t.me/luckyclub16"
             ),
         ],
     ]
